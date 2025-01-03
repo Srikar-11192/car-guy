@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<header><h1>car guy</h1></header>
+
+<body>
+  
+<ol>"Welcome to Car Guy, the ultimate channel for car enthusiasts! Explore stunning car edits that showcase the beauty, power, and style of your favorite vehicles."
+
+    "At Car Guy, we take car edits to the next level! Dive into a world of breathtaking automotive visuals and expertly crafted edits that will fuel your passion for cars."
+    
+    "If you love cars and creative edits, Car Guy is your go-to destination! Explore a collection of amazing car edits that highlight the best of automotive design and performance."
+    
+    "Car Guy brings you a curated collection of the best car edits around. Whether you're looking for sleek visuals or high-energy clips, we've got the edits you need to fuel your car passion."
+    
+    "Discover a world of incredible car edits on Car Guy, where every video is a visual masterpiece, bringing you closer to the cars you love!"</ol>
+
+       <img src="https://i.ibb.co/nBJ2wgM/Screenshot-3.png"  alt = image is not avialble>
+
+        <h4>subscribe my channel to get latest edits of car </h4>
+        <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" herf="style.css">
+        <a herf="https://youtube.com/@floxedit?si=Wd_K1kxyXpDUlkck" ><button><img src="https://i.ibb.co/tL5yVxj/images.png"
+             alt =click me ></button></a> 
+</body>
+    <footer>
+        <h2>About Car Guy</h2>
+        <p>Car Guy is your ultimate destination for stunning car edits and automotive visuals. Our channel is dedicated to bringing you the best in car design, performance, and style through expertly crafted edits.</p>
+        <h3>Tools We Use</h3>
+        <ul>
+            <li>Adobe Premiere Pro</li>
+            <li>Final Cut Pro</li>
+            <li>Adobe After Effects</li>
+            <li>DaVinci Resolve</li>
+        </ul>
+        <h3>Follow Us</h3>
+        <p>Stay connected with Car Guy on social media for the latest updates and exclusive content:</p>
+        <ul>
+            <li><a href="https://youtube.com/@floxedit?si=Wd_K1kxyXpDUlkck">YouTube</a></li>
+            <li><a href="https://www.instagram.com/_flox_edit/profilecard/?igsh=MWpiNnV5Mmp1bzB1aQ==">Instagram</a></li>
+            <li><a href="https://www.twitter.com/carguy">Twitter</a></li>
+        </ul>
+    </footer>
+    </html>

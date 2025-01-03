@@ -1,0 +1,150 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1a1a1a; /* Dark background for a sleek, car-related aesthetic */
+    color: #fff;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: #ff5733; /* Car-themed color */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+/* Navigation & Links */
+ol {
+    margin: 20px 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 1.1rem;
+    color: #f4f4f4;
+}
+
+ol li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+/* Image Styling */
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+/* Button Styling */
+button {
+    background-color: #ff5733;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ff2a00;
+}
+
+button img {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+/* Subscription Section */
+h4 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #ff5733;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    padding: 40px;
+    color: #f4f4f4;
+    margin-top: 40px;
+}
+
+footer h2, footer h3 {
+    font-size: 2rem;
+    color: #ff5733;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #f4f4f4;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+}
+
+ul li a:hover {
+    color: #ff5733;
+}
+
+/* Link Styling */
+a {
+    color: #ff5733;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff2a00;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.5rem;
+    }
+    
+    h4, footer h2, footer h3 {
+        font-size: 1.5rem;
+    }
+    
+    img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    button {
+        font-size: 1.1rem;
+        padding: 10px 15px;
+    }
+}
+
+
